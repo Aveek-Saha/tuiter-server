@@ -1,0 +1,25 @@
+{
+  "name": "tuiter-server",
+  "version": "1.0.0",
+  "description": "Node.js HTTP Web server for the Tuiter application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aveek-Saha/tuiter-server.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP"
+  ],
+  "author": "Aveek Saha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aveek-Saha/tuiter-server/issues"
+  },
+  "homepage": "https://github.com/Aveek-Saha/tuiter-server#readme"
+}
